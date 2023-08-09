@@ -1,7 +1,5 @@
 # Hey there, I'm Nilendra Nimbalkar! 👋
 
-![Funny Profile Image](funny-image-url)
-
 🌍 Welcome to my GitHub playground, where code meets creativity and coffee meets coding errors. ☕️
 
 ## About Me
